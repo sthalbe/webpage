@@ -1,0 +1,3 @@
+[submodule "web-fun-jobs"]
+	path = web-fun-jobs
+	url = git@github.com:sthalbe/web-fun-jobs.git
